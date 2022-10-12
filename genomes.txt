@@ -1,0 +1,5 @@
+genome HG004
+trackDb HG004/trackDb.txt
+twoBitPath HG004/HG004.2bit
+organism Homo Sapiens
+

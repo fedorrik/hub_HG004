@@ -3,3 +3,4 @@ shortLabel HG004
 longLabel HG004
 genomesFile genomes.txt
 email  fedorrik1@gmail.com
+
